@@ -1,0 +1,74 @@
+[
+  {
+    "recipe_id": 1,
+    "step_number": 1,
+    "timer": 60,
+    "description": "make patty bun"
+  },
+  {
+    "recipe_id": 1,
+    "step_number": 2,
+    "timer": 30,
+    "description": "make patty beef"
+  },
+  {
+    "recipe_id": 1,
+    "step_number": 3,
+    "timer": 10,
+    "description": "make sauce"
+  },
+  {
+    "recipe_id": 2,
+    "step_number": 1,
+    "timer": 5,
+    "description": "prepare vegetable"
+  },
+  {
+    "recipe_id": 2,
+    "step_number": 2,
+    "timer": 10,
+    "description": "make spice"
+  },
+  {
+    "recipe_id": 2,
+    "step_number": 3,
+    "timer": 1440,
+    "description": "prepare fermentation"
+  },
+  {
+    "recipe_id": 3,
+    "step_number": 1,
+    "timer": 10,
+    "description": "grind meat"
+  },
+  {
+    "recipe_id": 3,
+    "step_number": 2,
+    "timer": 30,
+    "description": "make flavour"
+  },
+  {
+    "recipe_id": 3,
+    "step_number": 3,
+    "timer": 60,
+    "description": "boil meatball"
+  },
+  {
+    "recipe_id": 4,
+    "step_number": 1,
+    "timer": 10,
+    "description": "make dough"
+  },
+  {
+    "recipe_id": 4,
+    "step_number": 2,
+    "timer": 10,
+    "description": "make peanut filling"
+  },
+  {
+    "recipe_id": 4,
+    "step_number": 3,
+    "timer": 20,
+    "description": "steam bakpao"
+  }
+]
